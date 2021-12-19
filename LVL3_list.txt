@@ -1,0 +1,8 @@
+['https://www.aliyun.com', 0.19863013698630136]
+['https://www.bleepingcomputer.com', 0.19863013698630136]
+['https://www.krebsonsecurity.com', 0.2808219178082192]
+['https://www.fortinet.com', 0.18493150684931506]
+['https://www.wordfence.com', 0.1917808219178082]
+['https://www.threatpost.com', 0.1917808219178082]
+['https://www.zonealarm.com', 0.1917808219178082]
+['https://www.alibabacloud.com', 0.19863013698630136]
